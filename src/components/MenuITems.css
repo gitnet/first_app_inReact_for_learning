@@ -1,0 +1,8 @@
+.Mymenu{
+    list-style-type:none;
+    color:blue; 
+    display: flex;
+}
+.Mymenu li{
+    margin-right: 10px;
+}
