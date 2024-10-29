@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first_app_inReact_for_learning/static/css/main.3c81c7df.css",
+    "main.js": "/first_app_inReact_for_learning/static/js/main.2bdacd5d.js",
+    "static/js/453.ae270511.chunk.js": "/first_app_inReact_for_learning/static/js/453.ae270511.chunk.js",
+    "static/media/card.jpeg": "/first_app_inReact_for_learning/static/media/card.f19521caf2e6f0ab64c5.jpeg",
+    "index.html": "/first_app_inReact_for_learning/index.html",
+    "main.3c81c7df.css.map": "/first_app_inReact_for_learning/static/css/main.3c81c7df.css.map",
+    "main.2bdacd5d.js.map": "/first_app_inReact_for_learning/static/js/main.2bdacd5d.js.map",
+    "453.ae270511.chunk.js.map": "/first_app_inReact_for_learning/static/js/453.ae270511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c81c7df.css",
+    "static/js/main.2bdacd5d.js"
+  ]
+}
